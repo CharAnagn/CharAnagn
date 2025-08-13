@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 ## 🚀 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourCharAnagn&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharAnagn&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ## 💻 Top Languages
 
