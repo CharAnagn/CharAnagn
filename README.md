@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Babis 👋
 
-<!--
-**CharAnagn/CharAnagn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 GitHub Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourCharAnagn&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharAnagn&layout=compact)
+
+## 📈 GitHub Activity
+
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=CharAnagn&bg_color=ffffff&color=000000&line=333333&point=000000)
+
+## 💬 Reach Out to Me:
+
+- [LinkedIn](https://www.linkedin.com/in/babisanagn)
+
+
